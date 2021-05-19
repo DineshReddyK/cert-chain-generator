@@ -1,6 +1,7 @@
 # Certificate chain generator
 
-Generates the certificate chain and optionally revokes any certificates.
+This tool can be used generate certificate chain, optionally, revoke them and generate crls.
+This will be done based on the input configuration file.
 
 
 ### Help
