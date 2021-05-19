@@ -1,9 +1,9 @@
-# certificate chain generator
+# Certificate chain generator
 
 Generates the certificate chain and optionally revokes any certificates.
 
 
-### help
+### Help
 
 ```
 python prepate_certchain.py <input_file>
